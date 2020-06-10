@@ -1,0 +1,1 @@
+worker: pyton mail.py
